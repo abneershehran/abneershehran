@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Abneer 👋
 
-<!--
-**abneershehran/abneershehran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys building cool stuff, experimenting with technology, and figuring out how things work. I'm into a bit of everything, from software development and AI to cybersecurity and 3D.
 
-Here are some ideas to get you started:
+### What I'm working on
+Currently building AI-powered applications, backend systems, and exploring machine learning and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I use
+**Languages:** Python, Java, C, C++, C#, JavaScript, PHP  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
+**Backend:** FastAPI, Node.js, REST APIs  
+**Databases:** PostgreSQL, MySQL, SQLite, Redis  
+**Tools:** Git, GitHub, Docker, Linux, VS Code  
+**Other:** Blender, Unity, Unreal Engine
+
+### Reach me
+[LinkedIn](https://linkedin.com/in/abneer-shehran-0124231b2) · [Portfolio](https://abneer-shehran.my.canva.site/abneer-shehran)
